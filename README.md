@@ -1,2 +1,4 @@
 # Retail-Banking-System
-DNFS
+UI - React
+Microservices - .Net Core Web API
+Deployment - Azure
